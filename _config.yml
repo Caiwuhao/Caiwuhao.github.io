@@ -105,7 +105,7 @@ theme: Redefine
 
 deploy:
   type: git
-  repo: https://github.com/Caiwuhao/Caiwuhao.github.io
+  repo: https://github.com/Caiwuhao/Caiwuhao.github.io.git
 #deploy:
   #type: #git
   #repo: #https://github.com/Caiwuhao/Caiwuhao.github.io.git # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
