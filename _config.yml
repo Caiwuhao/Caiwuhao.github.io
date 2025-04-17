@@ -100,9 +100,12 @@ theme: Redefine
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ''
+#  deploy:
+#  type: ''
 
+deploy:
+  type: git
+  repo: https://github.com/Caiwuhao/Caiwuhao.github.io
 #deploy:
   #type: #git
   #repo: #https://github.com/Caiwuhao/Caiwuhao.github.io.git # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
