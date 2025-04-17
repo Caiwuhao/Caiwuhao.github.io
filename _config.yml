@@ -103,5 +103,5 @@ theme: Redefine
 deploy:
   type: git
   repo: https://github.com/Caiwuhao/Caiwuhao.github.io.git # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
-  branch: gh-pages
-  message: 	Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}
+  branch:  
+  message: 	Site updated:{{ now('YYYY-MM-DD HH:mm:ss') }}
