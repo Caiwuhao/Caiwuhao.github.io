@@ -104,4 +104,5 @@ deploy:
   type: git
   repo: https://github.com/Caiwuhao/Caiwuhao.github.io.git # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch:  
-  message: 	Site updated:{{ now('YYYY-MM-DD HH:mm:ss') }}
+  message: 	
+  #Site updated:{{ now('YYYY-MM-DD HH:mm:ss') }}
