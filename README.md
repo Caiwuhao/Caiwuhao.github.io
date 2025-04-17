@@ -114,3 +114,51 @@ Please read [Redefine Docs](https://redefine-docs.ohevan.com/) when installing
 
 It's very easy to understand.
 
+
+
+## ☕ Support
+
+Feel free to **pull request** and **send issues**.
+
+If you have any questions, please send an email to [contact@ohevan.com](mailto:contact@ohevan.com). I will reply in time.
+
+Please **give me a star** to support me, thanks!
+
+Also, if you are using [Typora](https://typora.io/), check out [Typora Theme Redefine](https://github.com/EvanNotFound/typora-theme-redefine) so that you can preview the styles of your blog in Typora.
+
+## 💗 Donations
+
+Thanks to all the people who have donated to me. Your support is my greatest motivation.
+
+If you like this theme, please give a star. You can also support me by [donating](https://github.com/EvanNotFound/hexo-theme-redefine/blob/dev/DONATION.md).
+
+This is the list of all the people who have donated to me: [Donation List](https://github.com/EvanNotFound/hexo-theme-redefine/blob/dev/DONATION.md)
+
+🎉 **想体验 OpenAI 的 ChatGPT Plus 会员？官网 20 美元每月太贵了？不用担心！**
+
+🚀 立即加入我的 [GPT Plus Share](https://gpt.oknice.ca) GPT Plus 共享站，ChatGPT Plus 随心用。
+
+- ✅ 支持 OpenAI 最新所有模型，包括 `GPT-4o`, `o1` 系列模型。
+- ✅ 后台大量官方正版账号号池，随心使用
+- ✅ 每月仅需低至 23.99 人民币，支持一天免费试用
+- ✅ 无需梯子，国内免翻访问！
+- ✅ 由 Evan 本人运营，售后保证，已稳定运行超过一年
+
+[![gpt-billboard copy@1x](https://github.com/user-attachments/assets/2a9f6e40-b801-477f-9075-37499e2bb5ff)](https://www.gptplus.ca/home)
+
+
+## 🌟 Star History
+
+<p align="center">
+<a href="https://star-history.com/#EvanNotFound/hexo-theme-redefine&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=EvanNotFound/hexo-theme-redefine&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=EvanNotFound/hexo-theme-redefine&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=EvanNotFound/hexo-theme-redefine&type=Date" />
+  </picture>
+</a>
+</p>
+
+## 💻 Development
+
+If you want to contribute to this project, you can clone the `dev` branch and check out the [Development Docs](https://redefine-docs.ohevan.com/developer) to get started.
