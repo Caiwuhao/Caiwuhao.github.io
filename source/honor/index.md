@@ -1,5 +1,5 @@
 ---
-title: honor
+title: Honor & Awards
 date: 2025-04-17 21:51:44
 permalink: /honor/    # 强制把它部署到该路径（可选，Hexo 默认也是这个）
 layout: page                 # （大部分主题可选）指定使用 page 布局

@@ -128,7 +128,7 @@ home_banner:
     light: /images/wallhaven-wqery6-light.webp # light mode
     dark: /images/wallhaven-wqery6-dark.webp # dark mode
   # Home banner title
-  title: Quantum Optics Group
+  title: Tohoku Quantum Optics Group
   # Home banner subtitle
   subtitle:
     text: [] # subtitle text, array
@@ -203,10 +203,10 @@ navbar:
       path: / 
       icon: fa-regular fa-house # can be empty
     News: 
-      path: /news  #/archives 
+      path: /news/  #/archives 
       icon: fa-regular fa-archive # can be empty
     Publications: 
-      path: /publications
+      path: /publications/
       icon: fa-regular fa-chart-bar
     Honor & Awards: 
       path: /honor
