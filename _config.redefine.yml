@@ -205,12 +205,18 @@ navbar:
     News: 
       path: /news/  #/archives 
       icon: fa-regular fa-archive # can be empty
+    Research:
+      path: /research/
+      icon: fa-regular fa-archive
     Publications: 
       path: /publications/
       icon: fa-regular fa-chart-bar
-    Honor & Awards: 
-      path: /honor
-      icon: fa-regular fa-chart-bar
+    #Honor & Awards: 
+    #  path: /honor/
+    #  icon: fa-regular fa-chart-bar
+    "links":
+      path: /ll/
+      icon: fa-regular fa-link
     #  About: 
     #  icon: fa-regular fa-user
     #  submenus:
