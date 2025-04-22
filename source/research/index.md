@@ -14,7 +14,7 @@ BBO family crystals [[Quantum Engineering 2(2), e38 (2020)](https://doi.org/10.1
 
 [![这是图片](research/dopedPPLN.png "dopedPPLN")](/research/dopedPPLN)
 <!--[« 返回 Research 页面](/research/) -->
-#### [<center><u>Compact Sagnac-type entangled photon source</u></center>](/research/dopedPPLN)
+#### [<center><u>Doped PPLN single photon source</u></center>](/research/dopedPPLN)
 
 ### Research topics II: Entanglement sources and biphoton quantum interference experiments.
 We prepared entanglement sources at the 810 nm band [[J. Opt. Soc. Am. B 39(1), 77-82 (2022)](https://doi.org/10.1364/JOSAB.437808 "Cai2022JOSAB")];
@@ -22,7 +22,7 @@ Pump-tight-focusing entangled photons to realize Hong-Ou-Mandel Interference [[A
 
 [![这是图片](/research/LD.jpg "LD")](/research/LD)
 <!--[« 返回 Research 页面](/research/) -->
-#### [<center><u>Compact Sagnac-type entangled photon source</u></center>](/research/LD)
+#### [<center><u>Compact Sagnac-type PPKTP entangled photon source</u></center>](/research/LD)
 
 ### Research topics III: Quantum and classical optics application by algorithms.
 We used metaheuristic algorithm to prepare optimized single-photon sources by PPLN crystal at the mid-infrared band [[Adv. Quantum Technol. 5(7), 2200028 (2022)](https://doi.org/10.1002/qute.202200028 "Cai2022QUTE")], note that [[this work has been selected as the front cover of the journal for the July issue](https://doi.org/10.1002/qute.202270071 "Cai2022Cover")];
