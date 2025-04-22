@@ -1,5 +1,5 @@
 ---
-title: dopedPPLN
+title: Doped PPLN single photon source
 date: 2025-04-21 12:30:00
 permalink: /research/dopedPPLN/
 layout: page

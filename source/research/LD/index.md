@@ -1,5 +1,5 @@
 ---
-title: LD
+title: LD pump compact Sagnac-type PPKTP entangled photon source
 date: 2025-04-21 12:30:00
 permalink: /research/LD/
 layout: page

@@ -1,5 +1,5 @@
 ---
-title: OPLN
+title: Optimized LN MIR pure single photon source
 date: 2025-04-21 12:30:00
 permalink: /research/OPLN/
 layout: page

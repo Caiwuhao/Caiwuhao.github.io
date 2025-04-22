@@ -17,7 +17,9 @@ info:
   # Author name
   author: Wuhao Cai
   # Site URL
-  url: https://caiwuhao.github.io/
+  url: https://caiwuhao.github.io
+  # email URL
+  email: cai.wuhao.t7@dc.tohoku.ac.jp
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -167,16 +169,20 @@ home_banner:
   # Home banner social links
   social_links:
     # Whether to enable
-    enable: false
+    enable: true
     # Social links style
-    style: default # default, reverse, center
+    style: center # default, reverse, center
     # Social links
     links:
-      github:  # your GitHub URL
-      instagram: # your Instagram URL
-      zhihu:  # your ZhiHu URL
-      twitter:  # your twitter URL
-      email:  # your email
+      fa-solid fa-location-dot fa-beat: https://maps.app.goo.gl/9tuoPHinbd8GTduw7 # your location
+      fa-brands fa-linkedin fa-beat: https://www.linkedin.com/in/wuhaocai # your linkedin
+      fa-brands fa-google-scholar fa-beat: https://scholar.google.com/citations?user=7R_OSw8AAAAJ # your google scholar
+      fa-solid fa-school-flag fa-beat: https://www.tohoku.ac.jp/en/  # your university
+      fa-brands fa-github fa-beat: https://github.com/Caiwuhao/ # your GitHub URL
+      instagram: https://github.com/Caiwuhao/ # your Instagram URL
+      zhihu: https://github.com/Caiwuhao/ # your ZhiHu URL
+      twitter: https://github.com/Caiwuhao/ # your twitter URL
+      fa-solid fa-at fa-beat: cai.wuhao.t7@dc.tohoku.ac.jp # your email
       # ...... # you can add more
     # Social links with QRcode drawers
     qrs:
@@ -209,7 +215,7 @@ navbar:
       icon: fa-regular fa-archive # can be empty
     Research:
       path: /research/
-      icon: fa-regular fa-archive
+      icon: fa-regular fa-atom
     Publications: 
       path: /publications/
       icon: fa-regular fa-chart-bar
