@@ -128,7 +128,9 @@ home_banner:
   # Home banner image
   image: 
     # light: /images/OPLN.png # light mode
-    light: /images/wallhaven-wqery6-light.webp # light mode
+    light: /images/dl_wp_katahira_02.jpg # light mode
+    # light: /images/dl_wp_kawauchi_01.jpg # light mode
+    # light: /images/wallhaven-wqery6-light.webp # light mode
     dark: /images/wallhaven-wqery6-dark.webp # dark mode
    
   # Home banner title
@@ -149,11 +151,13 @@ home_banner:
   # Color of home banner text
   text_color: 
     light: "#fff" # light mode
+    # light: "#C0C0C0" # light mode
     dark: "#d1d1b6" # dark mode
   # Specific style of the text
   text_style: 
     # Title font size
-    title_size: 2.8rem
+    title_size: 5.8rem
+    # title_size: 2.8rem
     # Subtitle font size
     subtitle_size: 1.5rem
     # Line height between title and subtitle
