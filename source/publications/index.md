@@ -61,7 +61,7 @@ Report Link: https://ss.wit.edu.cn/info/1033/4332.htm (in Chinese)
 1. Wu-Hao Cai, **<font color = red> National Scholarship (China) </font>**, No. SSY202027906, National Scholarship awared with CNY 20,000 (JPY 430, 000) only for TOP2% graduate student in China, Ministry of Education (China), 2020/12
 
 ## Research Grant
-1. Total JPY 2,730,000 for 3 years
+1. Total JPY 2,728,700 for 3 years
 (Additional Grant: JPY 500,000 for D1, JPY 458,700 for D2, JPY 750,000 for D3; Top 5% honor: 47 of 871 program students for being awarded additional funding.)
 Advanced Graduate School Pioneering Research Support Project JST SPRING of Japan (Grant No. JPMJSP2114) (Ph. D. fellowship and research grants)
 
