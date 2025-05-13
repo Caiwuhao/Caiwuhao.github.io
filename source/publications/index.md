@@ -8,8 +8,8 @@ date: 2025-04-17 21:45:56
 
 <!-- 我的 Publications -->
 ## Journal Papers
-#### (see also [Google Scholar](https://scholar.google.com/citations?user=7R_OSw8AAAAJ "Google Scholar"), [ORCID](https://orcid.org/0000-0001-7848-9502 "ORCID"), and [arXiv](https://arxiv.org/search/?query=Cai%2C+Wu-Hao&searchtype=author "arXiv"))
-1. **Wu-Hao Cai**, Soyoung Baek, Rui-Bo Jin, and Fumihiro Kaneda, “Optimized Spectral Purity of Heralded Single Photons at a Telecom O-Band”, arXiv:2501.14214, Adv. Quantum Technol., submitted
+#### (see also [Google Scholar](https://scholar.google.com/citations?user=7R_OSw8AAAAJ "Google Scholar"), [ORCID](https://orcid.org/0000-0001-7848-9502 "ORCID"), [Web of science](https://www.webofscience.com/wos/author/record/HCH-1201-2022 "Web of science"), and [arXiv](https://arxiv.org/search/?query=Cai%2C+Wu-Hao&searchtype=author "arXiv"))
+1. **Wu-Hao Cai**, Soyoung Baek, Rui-Bo Jin, and Fumihiro Kaneda, “Optimized Spectral Purity of Heralded Single Photons at a Telecom O-Band”, arXiv:2501.14214, Optics Express, submitted
 1. **Wu-Hao Cai**, Ying Tian, and Rui-Bo Jin*, “Mid-infrared Spectrally Pure Single-Photon States Generation from 22 Nonlinear Optical Crystals”, Quantum Engineering, 2023, 6929253 (2023) (EI)
 1. **Wu-Hao Cai**, Ying Tian, Shun Wang, Qiang Zhou, Chenglong You*, and Rui-Bo Jin*, “Optimized Design of the Lithium Niobate for Spectrally-Pure-State Generation at MIR Wavelengths Using Metaheuristic Algorithm”, Advanced Quantum Technologies 5(7), 2200028 (2022) (IF = 4.4, Q1) *<font color = red> Selected the front cover of the journal for the July issue </font>*
 1. **Wu-Hao Cai**, Bei Wei, Shun Wang, Rui-Bo Jin*, “Counter-propagating spectrally-uncorrelated biphotons at 1550 nm generated from periodically poled *M*TiO*X*O<sub>4</sub> (*M* = K, Rb, Cs; *X* = P, As)”, J. Opt. Soc. Am. B 37(10), 3048-3054 (2020) (IF = 1.9, Q3)
@@ -62,6 +62,7 @@ Report Link: https://ss.wit.edu.cn/info/1033/4332.htm (in Chinese)
 
 ## Research Grant
 1. Total JPY 2,730,000 for 3 years
+(Additional Grant: JPY 500,000 for D1, JPY 458,700 for D2, JPY 750,000 for D3; Top 5% honor: 47 of 871 program students for being awarded additional funding.)
 Advanced Graduate School Pioneering Research Support Project JST SPRING of Japan (Grant No. JPMJSP2114) (Ph. D. fellowship and research grants)
 
 
