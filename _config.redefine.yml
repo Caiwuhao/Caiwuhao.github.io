@@ -186,7 +186,7 @@ home_banner:
       instagram: https://github.com/Caiwuhao/ # your Instagram URL
       zhihu: https://github.com/Caiwuhao/ # your ZhiHu URL
       twitter: https://github.com/Caiwuhao/ # your twitter URL
-      fa-solid fa-at fa-beat: cai.wuhao.t7@dc.tohoku.ac.jp # your email
+      fa-solid fa-at fa-beat: mailto:cai.wuhao.t7@dc.tohoku.ac.jp # your email
       # ...... # you can add more
     # Social links with QRcode drawers
     qrs:
